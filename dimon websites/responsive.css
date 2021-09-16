@@ -1,0 +1,112 @@
+@media screen and (max-width:980px)
+{
+    
+    
+.head ul li
+{
+
+float: left;
+list-style: none;
+padding: 8px;
+margin-left: 10x; 
+font-size:20px;
+display: block;
+    }
+    
+.btn 
+{
+    left:100px;
+    position: relative;
+    
+    
+    
+}
+.image img
+    {
+        margin-top: -200px;
+    position: relative;
+    margin-left:362px;
+}
+ .socialicons
+{
+   bottom: 50px; 
+ right: 242px;
+} 
+}
+@media screen and (max-width:780px) {
+    
+    
+     
+.head ul li
+{
+
+float: none;
+    text-align: center;
+    display: block;
+    margin: 0px auto;
+    background: tomato;
+
+    }  
+    
+    
+.btn 
+{
+    left:108px;
+position: relative;
+    
+width: 96px;
+    }
+ .head ul li:first-child
+{
+margin-left:0px; 
+    
+}
+.image  img{
+        margin-top: -29px;
+    width: 250px;
+    height: 150px;
+margin-left: -139px;
+    overflow: hidden;
+}
+    .apptext{
+        
+        margin-top: -64px;
+    }  
+    
+}
+@media screen and (max-width:480px){
+    
+    
+    .btn 
+{
+    left:-37px;
+    
+    
+}
+    .apptext h1{
+        
+    margin-top: 99px;
+        margin-left: 45px;
+    }
+     .apptext p{
+        
+
+        margin-left: 45px;
+    } 
+    .image  img{
+        margin-top: 39px;
+    
+ 
+}
+    .playbtn{
+        
+        margin-top: 20px;
+        
+    }
+    .socialicons
+{
+   bottom: 85px; 
+ right: 42px;
+} 
+   
+}

@@ -1,0 +1,183 @@
+body
+{
+padding: 0;
+margin: 0;
+    
+}
+.background
+{
+    width: 100%;
+    height:100% ;
+    background-size: cover;
+    background: #413838;
+   position: absolute;
+    
+}
+
+.head ul li
+{
+
+float: left;
+list-style: none;
+padding: 10px;
+margin-left: 15px; 
+font-size:20px;
+display: block;
+}
+.head ul li:first-child
+{
+margin-left:-18px; 
+    
+}
+.head ul li a
+{
+  color: #fff;
+    text-decoration:none;
+    display: block;
+}
+.head ul li a:hover
+{
+    background: blue;
+}
+.logo img
+{
+width: 35px;    
+height: 35px;
+}
+.btn{
+    margin-left: 200px;
+    border: 2px solid transparent;
+    background-image: linear-gradient(#21b5c4,#777777);
+
+position: absolute;
+    border-radius: 30px;
+}
+.btn span
+{
+    display: block;
+    padding: 5px 12px;
+}
+ h1
+{
+margin-left: 102px;
+margin-top: 150px;
+    color: #fff;
+ position:rgba( 14, 143, 46, 0.329 )
+}
+P{
+   margin-left: 102px;
+    color: #737f7d; 
+    
+}
+.image {
+text-align: center;
+   margin: auto;
+    
+}
+.image  img{
+        margin-top: -200px;
+    width: 275px;
+    height: 200px;
+    position: absolute;
+    margin-left: -20px;
+}
+.playbtn{
+    margin-left: 95px;
+margin-top: 41px;
+width:50px;
+    
+    height: 50px;
+    border: 2px solid #21b5c4;
+   text-align: center;
+    border-radius: 50%;
+}
+.playbtn .fa{
+ padding: 18px 0;
+    font-size: 18px;
+    cursor: pointer;
+
+}
+.playbtn small{
+ color: #1e629d; 
+    margin-left: 0px;
+    display: block;
+    margin-top: 50px;
+}
+.quocklinks
+{
+    bottom: 0px;
+    left: 0px;
+    position: absolute;
+    background: linear-gradient(blue,green);
+    height: 90px;
+    width: 400px;
+    
+}
+.quocklinks ul
+{
+     margin-top: 10px;
+   display: inline-flex;
+    text-align: center;
+
+}
+.quocklinks ul li{
+    
+    list-style: none;
+    cursor: pointer;
+    display: block;
+    margin: 16px;
+    
+    
+    
+}
+.quocklinks ul li .fa{
+   
+    font-size:20px;
+   color: #f5fff0ba;
+    display: block;
+}
+.quocklinks ul li p{
+margin-top: 10px;
+    color:  #f5fff0ba;
+    display: inline-flex;
+margin-left:auto;
+}
+.socialicons
+{
+       bottom: 1px;
+    position: absolute;
+    right: 590px;
+}
+.socialicons ul li 
+{
+     list-style: none;
+    font-size: 20px;
+    color:#f5fff0ba;
+    display: block;
+    border: 2px solid #f5fff0ba;
+    height: 40px;
+    position: relative;
+    width: 40px;
+    border-radius: 50%;
+    
+    text-align: center;
+    margin: 5px;
+}
+.socialicons ul li i
+{
+    padding: 18px 0px;
+    cursor: pointer;
+    font-size: 15px;
+   
+}
+.socialicons ul li a
+{
+    
+    color: #f5fff0ba;
+    
+}
+
+
+        
+
+        
